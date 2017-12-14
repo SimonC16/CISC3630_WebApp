@@ -1,0 +1,7 @@
+{
+  "name": "Global Cities Museum Kiosk",
+  "short_name": "Global Cities",
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone"
+}
