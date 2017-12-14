@@ -2,6 +2,15 @@
   "name": "Global Cities Museum Kiosk",
   "short_name": "Global Cities",
   "lang": "en-US",
-  "start_url": "/index.html",
-  "display": "standalone"
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#212529",
+  "icons": [
+    {
+      "src": "images/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#fff"
 }
